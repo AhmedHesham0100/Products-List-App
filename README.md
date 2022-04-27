@@ -1,10 +1,9 @@
-# Getting Started with Create React App
+# Products List App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project for list Products using React.js and tailwind css
+## need to install additional package 
 
-## Available Scripts
-
-In the project directory, you can run:
+npm  use (npm install)
 
 ### `npm start`
 
